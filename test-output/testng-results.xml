@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36917" started-at="2019-08-31T13:13:23Z" finished-at="2019-08-31T13:14:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36917" started-at="2019-08-31T13:13:23Z" finished-at="2019-08-31T13:14:00Z">
+      <class name="Selenium_Task.TripDatePicker">
+        <test-method status="PASS" signature="FromValueSelection()[pri:0, instance:Selenium_Task.TripDatePicker@687080dc]" name="FromValueSelection" duration-ms="36901" started-at="2019-08-31T13:13:23Z" finished-at="2019-08-31T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FromValueSelection -->
+      </class> <!-- Selenium_Task.TripDatePicker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
